@@ -1,6 +1,6 @@
 def newDownload(repo)
 {
-   git "https://github.com/IntelliqDevops/${repo}.git"
+   git "https://https://github.com/GaneshAndhe/${repo}.git"
 }
 
 def newBuild()
